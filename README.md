@@ -36,7 +36,7 @@ A personal website that showcases my portfolio, skills, and projects. This site 
 
 Feel free to reach out for project collaborations, freelance work, or just a chat about tech!
 
-- **LinkedIn**: [Krish Jariwala](https://www.linkedin.com/in/krish-jariwala/)
+- **LinkedIn**: [Krish Jariwala](https://www.linkedin.com/in/krish-jariwala-585a11320/)
 - **GitHub**: [Your GitHub Profile](https://github.com/krishkkkk)
 - **Email**: krish.jariwala3011@gmail.com
 
