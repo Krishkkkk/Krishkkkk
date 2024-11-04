@@ -38,7 +38,7 @@ Feel free to reach out for project collaborations, freelance work, or just a cha
 
 - **LinkedIn**: [Krish Jariwala](https://www.linkedin.com/in/krish-jariwala)
 - **GitHub**: [Your GitHub Profile](https://github.com/krishkkkk)
-- **Email**: your-email@example.com
+- **Email**: krish.jariwala3011@gmail.com
 
 ---
 
