@@ -11,8 +11,8 @@
 
 ## Projects
 
-### 🌐 [Anime Kakahu - Anime Graphic Clothing Website](https://github.com/YourUsername/AnimeKakahu)
-A dedicated e-commerce website for anime clothing enthusiasts. The project involves a fully redesigned "Contact Us" form, with plans to implement an admin panel for managing products.
+### 🌐 [Anime Kakahu - Anime Graphic Clothing Website](https://krishkkkk.github.io/AnimeKakahu1/)
+A dedicated e-commerce website for anime clothing enthusiasts. The project involves a fully developed website that works for managing products and selling the desired clothes following the anime trends.
 
 ### 🐄 Livestock Management System
 A cross-platform application for managing livestock data, designed for Android, iOS, MacCatalyst, and Windows. This project, built with .NET MAUI, includes features for querying livestock types, calculating income, and tracking profits and costs.
