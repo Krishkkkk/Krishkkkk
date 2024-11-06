@@ -11,7 +11,7 @@
 
 ## Projects
 
-### 🌐 [Anime Kakahu - Anime Graphic Clothing Website](https://krishkkkk.github.io/AnimeKakahu1/)
+### 🌐 [Anime Kakahu - Anime Graphic Clothing Website](https://krishkkkk.github.io/AnimeKakahu1.github.io/index.html)
 A dedicated e-commerce website for anime clothing enthusiasts. The project involves a fully developed website that works for managing products and selling the desired clothes following the anime trends.
 
 ### 🐄 Livestock Management System
