@@ -18,7 +18,10 @@ A dedicated e-commerce website for anime clothing enthusiasts. The project invol
 A cross-platform application for managing livestock data, designed for Android, iOS, MacCatalyst, and Windows. This project, built with .NET MAUI, includes features for querying livestock types, calculating income, and tracking profits and costs.
 
 ### 🌍 [Personal Website](https://krishkkkk.github.io/Krish/)
-A personal website that showcases my portfolio, skills, and projects. This site provides an overview of my background in tech, web development, and current projects.
+A personal website that showcases my additional skills. This site provides an overview of my hobbies.
+
+### 🌍 [Portfolio Website](https://krishkkkk.github.io/Portfolio/)
+A portfolio website that showcases my portfolio, skills, and projects. This site provides an overview of my background in tech, web development, and current projects.
 
 ## Skills
 
