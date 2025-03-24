@@ -20,7 +20,7 @@ A cross-platform application for managing livestock data, designed for Android, 
 ### 🌍 [Personal Website](https://krishkkkk.github.io/Krish/)
 A personal website that showcases my additional skills. This site provides an overview of my hobbies.
 
-### 🌍 [Portfolio Website](https://krishkkkk.github.io/Portfolio/)
+### 🌍 [Portfolio Website](https://krishkkkk.github.io/portfolio/)
 A portfolio website that showcases my portfolio, skills, and projects. This site provides an overview of my background in tech, web development, and current projects.
 
 ## Skills
